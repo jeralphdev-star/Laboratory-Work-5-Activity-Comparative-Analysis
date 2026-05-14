@@ -1,6 +1,6 @@
 # Laboratory-Work-5-Activity-Comparative-Analysis
 
-### Google Colab Link: 
+### Google Colab Link: https://colab.research.google.com/drive/1F3MT0cKZWV7loq9wYMjgjBf8N4nqm1XW?usp=sharing
 
 ## GUIDE QUESTIONS (FINAL REFLECTION)
 
@@ -15,7 +15,7 @@
 
 ### B. Evaluation Metrics
 #### 4. Why is accuracy not enough to evaluate a model?
-#### Answer:
+#### Answer: 
 #### 5. Which model had the best F1-score? What does it indicate?
 #### Answer: 
 #### 6. How did Precision and Recall differ across models?
@@ -34,7 +34,6 @@
 #### Answer: 
 #### 10. What does AUC tell us about model performance?
 #### Answer: 
-
 ### E. Explainability (Grad-CAM)
 
 #### 11. What did Grad-CAM reveal about model decision-making?
